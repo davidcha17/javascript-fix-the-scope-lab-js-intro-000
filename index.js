@@ -14,11 +14,11 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
 
 function add2(n) {
-  n + 2;
-  return n + two
+    const two = 2
+    
+      return n + two
 
   // Feel free to move things around!
-  const two = 2
 }
 
 var funkyFunction = function() {
