@@ -5,10 +5,6 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var = "I'm not a dog"
-  function cat() {
-    return yourAnimal() 
-  }
 
     return animal
   }
